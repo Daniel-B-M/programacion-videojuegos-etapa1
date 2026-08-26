@@ -2,7 +2,7 @@
 Actividad Etapa 1 - Programación para Videojuegos - UNAD
 
 ## Juliana Albarracin Casallas
-
+![Foto de Juliana](Juliana/foto-juliana.jpg)
 **Rol:** Diseñadora de videojuegos (Game Designer)  
 **Ubicación:** Duitama, Boyacá, Colombia
 

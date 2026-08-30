@@ -2,7 +2,7 @@
 Actividad Etapa 1 - Programación para Videojuegos - UNAD
 
 ## Daniel Bonilla
-![Foto de Daniel](Daniel-Bonilla/foto-daniel.jpeg)
+![Foto de Daniel](foto-daniel.png)
 **Rol:** Programador de Videojuegos (Game Programmer)  
 **Ubicación:** Chiquinquirá, Boyacá, Colombia
 
